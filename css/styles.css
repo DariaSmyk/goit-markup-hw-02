@@ -89,14 +89,14 @@ a {
 }
 /* #endregion hero */
 /* #region section 1 */
-.titles-section-1 {
+.titles-section- {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.text-section-1 {
+.text-section- {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -118,7 +118,7 @@ a {
   color: #2e2f42;
 }
 
-.titles-section-2 {
+.titles-section-- {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -126,7 +126,7 @@ a {
   text-align: center;
   color: #2e2f42;
 }
-.text-section-2 {
+.text-section-- {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -134,21 +134,21 @@ a {
   text-align: center;
   color: #434455;
 }
-.section-2 {
+.section-- {
   background-color: #f4f4fd;
 }
 
 /* #endregion section 2 */
 /* #region section 3 */
 
-.titles-section-3 {
+.titles-section--- {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.text-section-3 {
+.text-section--- {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
